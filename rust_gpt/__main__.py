@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for rust_gpt."""
 
 from .cli import main  # pragma: no cover
 
